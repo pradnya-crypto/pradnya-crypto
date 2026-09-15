@@ -8,7 +8,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d5c8f1f-0f5e-4f10-8e2f-2a0d8f1c2e4c" alt="Cyber Security" width="450"/>
 </p>
-
+<p align="center">
+  <img src="https://ishan-rest.vercel.app/svg/banner/hacker2/pradnya-crypto" width="100%" alt="Cyber Security Hacker Banner">
+</p>
 ---
 
 ## 🛡️ About Me
