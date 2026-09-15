@@ -2,7 +2,7 @@
 <h3 align="center">🔐 Cyber Security Enthusiast | Ethical Hacking & Network Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Ethical+Hacking+Learner;Network+Security+Explorer;Always+Learning+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Ethical+Hacking+Learner;Network+Security+Explorer;Always+Learning+%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
 <p align="center">
