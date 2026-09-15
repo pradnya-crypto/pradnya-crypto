@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pradnya Desai</h1>
 <h3 align="center">🔐 Cyber Security Enthusiast | Ethical Hacking & Network Security</h3>
 
+
+<p align="center">
+  <img src="https://ishan-rest.vercel.app/svg/banner/blackhole/pradnya-crypto" width="100%" alt="Cyber Security">
+</p>
+
 <p align="center">
   <img src="https://ishan-rest.vercel.app/svg/banner/hacker2/pradnya-crypto" width="100%" alt="Cyber Security Hacker Banner">
 </p>
